@@ -1,0 +1,11 @@
+C:\Users\zizig\source\repos\FizzBuzzGame\FizzBuzzGame.Models\bin\Debug\net8.0\FizzBuzzGame.Models.deps.json
+C:\Users\zizig\source\repos\FizzBuzzGame\FizzBuzzGame.Models\bin\Debug\net8.0\FizzBuzzGame.Models.dll
+C:\Users\zizig\source\repos\FizzBuzzGame\FizzBuzzGame.Models\bin\Debug\net8.0\FizzBuzzGame.Models.pdb
+C:\Users\zizig\source\repos\FizzBuzzGame\FizzBuzzGame.Models\obj\Debug\net8.0\FizzBuzzGame.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zizig\source\repos\FizzBuzzGame\FizzBuzzGame.Models\obj\Debug\net8.0\FizzBuzzGame.Models.AssemblyInfoInputs.cache
+C:\Users\zizig\source\repos\FizzBuzzGame\FizzBuzzGame.Models\obj\Debug\net8.0\FizzBuzzGame.Models.AssemblyInfo.cs
+C:\Users\zizig\source\repos\FizzBuzzGame\FizzBuzzGame.Models\obj\Debug\net8.0\FizzBuzzGame.Models.csproj.CoreCompileInputs.cache
+C:\Users\zizig\source\repos\FizzBuzzGame\FizzBuzzGame.Models\obj\Debug\net8.0\FizzBuzzGame.Models.dll
+C:\Users\zizig\source\repos\FizzBuzzGame\FizzBuzzGame.Models\obj\Debug\net8.0\refint\FizzBuzzGame.Models.dll
+C:\Users\zizig\source\repos\FizzBuzzGame\FizzBuzzGame.Models\obj\Debug\net8.0\FizzBuzzGame.Models.pdb
+C:\Users\zizig\source\repos\FizzBuzzGame\FizzBuzzGame.Models\obj\Debug\net8.0\ref\FizzBuzzGame.Models.dll
